@@ -12,4 +12,6 @@ function setup() {
 
 function draw() {
   background(0);
+  circle(xBolinha, yBolinha, diametro
+)
 }
